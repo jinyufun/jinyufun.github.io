@@ -21,9 +21,9 @@ author: JinYu Fan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://jinyufun.github.io"
-    - Learn markdown: "https://jinyufun.github.io"
+ # Resources:
+ #   - Beautiful Jekyll: "https://jinyufun.github.io"
+ # - Learn markdown: "https://jinyufun.github.io"
   Author's home: "https://jinyufun.github.io"
 
 ################
